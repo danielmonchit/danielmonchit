@@ -5,7 +5,7 @@ When I'm not coding, you can find me reading a good book, hitting the gym, or ex
 I also enjoy learning Irish, which you will find sprinkled all over my apps and websites.
 
 **🧠 Developer with a Ruby Heart**
-I'm a software developer with a deep affinity for the Ruby programming language. Ruby is elegant, expressive, and endlessly practical.
+I'm a software developer with a deep affinity for the Ruby programming language. Ruby is elegant, expressive, and practical.
 
 **🌱 Grounded in Curiosity**
 An aspiring Buddhist and occasional tree hugger (when the mood strikes), I balance idealism with pragmatism. I believe in thoughtful action, not just thoughtful intention.
