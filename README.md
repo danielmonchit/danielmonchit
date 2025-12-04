@@ -1,7 +1,8 @@
-# Hi, I'm Daniel Mon Chit, a software developer and tech enthusiast with a passion for building practical tools that make people's lives easier. 👋
+# Hi, I'm Daniel Mon Chit 👋
+
+I'm a software developer and tech enthusiast with a passion for building practical tools that make people's lives easier. 
 
 When I'm not coding, you can find me reading a good book, hitting the gym, or exploring the outdoors.
-
 I also enjoy learning Irish, which you will find sprinkled all over my apps and websites.
 
 **🧠 Developer with a Ruby Heart**
@@ -15,3 +16,9 @@ Whether it's reading by the fire, tending to the garden, or experimenting in the
 
 **🚀 Driven by creativity and exploration**
 I thrive on the joy that comes from Aha! moments, deep exploration, and the power of a clear vision. I believe in strong opinions, while i hold them loosely enough to evolve.
+
+## 📬 Get in Touch
+
+You can:
+- Connect with me via my [Website](https://www.monchit.co.uk)
+- Check my GitHub profile for my email address
